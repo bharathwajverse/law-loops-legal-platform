@@ -1,6 +1,6 @@
-# LegalLoop — Know Your Rights
+# law-loops-legal-platform
 
-A modern, educational web application designed to help users understand their legal rights with an elegant, accessible interface. LegalLoop provides simplified legal guidance, IPC section references, emergency contacts, and legal resources for Indian citizens.
+A modern legal-tech platform built to simplify access to legal services, professional legal guidance, lawyer discovery, and digital legal resources through a responsive and user-friendly web application.
 
 ## Live Demo
 
@@ -37,14 +37,14 @@ GitHub repository:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/sampathpolaki1-sam/law-loops.git
-cd law-loops
+git clone https://github.com/bharathwajverse/law-loops-legal-platform.git
+cd law-loops-legal-platform
 ```
 
 2. Open in your browser:
 ```bash
 # Simply open the HTML file
-open law\ loop.html
+start "" "law loop.html"
 ```
 
 Or use a local server:
@@ -61,12 +61,15 @@ npx http-server
 ## Project Structure
 
 ```
-law-loops/
+law-loops-legal-platform/
 ├── law loop.html          # Main application
 ├── README.md              # This file
 ├── LICENSE                # MIT License
 ├── CONTRIBUTING.md        # Contribution guidelines
-└── .gitignore            # Git ignore rules
+├── CODE_OF_CONDUCT.md     # Contributor conduct policy
+├── SECURITY.md            # Security reporting policy
+├── .gitignore             # Git ignore rules
+└── .editorconfig          # Formatting settings
 ```
 
 ## Technologies
@@ -86,7 +89,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Author
 
-**sampathpolaki1-sam**
+**bharathwajverse**
 
 ## Support
 
@@ -94,4 +97,5 @@ If you have questions or find issues, please open an issue on GitHub.
 
 ---
 
-**LegalLoop** - Making legal knowledge accessible to everyone ⚖️📚
+**law-loops-legal-platform** - Making legal knowledge accessible to everyone ⚖️📚
+
